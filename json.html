@@ -22,7 +22,6 @@
         const container = document.getElementById('profiles');
         json.forEach(user => {
           const card = document.createElement('div');
-          card.className = 'profile-card';
           card.innerHTML=
           `
             <h2>${user.firstName} ${user.lastName}</h2>

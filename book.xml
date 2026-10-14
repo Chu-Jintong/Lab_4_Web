@@ -1,0 +1,18 @@
+<?xml version="1.0" ?>
+<bookstore>
+    <book id="1"><!--The root code must exist.-->
+        <title>Hong Loumeng</title><!--these all be its children-->
+        <author>Cao Xueqin</author>
+        <price>80.00</price>
+    </book>
+    <book id="2">
+        <title>JavaScript: The Definitive Guide</title>
+        <author>David Flanagan</author>
+        <price>45.50</price>
+    </book>
+    <book id="3">
+        <title>Learning XML</title>
+        <author>Erik T. Ray</author>
+        <price>31.95</price>
+    </book>
+</bookstore>

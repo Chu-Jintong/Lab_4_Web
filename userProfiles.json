@@ -1,0 +1,35 @@
+[
+  {
+    "firstName": "Tina",
+    "lastName": "Kallen",
+    "email": "1234567@example.com",
+    "dateOfBirth": "2005-10-21",
+    "preferences": {
+      "theme": "light",
+      "language": "English",
+      "notifications": true
+    }
+  },
+  {
+    "firstName": "Kuda",
+    "lastName": "Dube",
+    "email": "kuda.dube@example.com",
+    "dateOfBirth": "2010-03-14",
+    "preferences": {
+      "theme": "light",
+      "language": "Chinese",
+      "notifications": false
+    }
+  },
+  {
+    "firstName": "Edward",
+    "lastName": "Richard",
+    "email": "2345678@example.com",
+    "dateOfBirth": "1999-11-02",
+    "preferences": {
+      "theme": "dark",
+      "language": "Spanish",
+      "notifications": true
+    }
+  }
+]
